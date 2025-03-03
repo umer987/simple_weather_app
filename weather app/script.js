@@ -20,3 +20,5 @@ async function getWeather() {
         alert("Could not fetch weather data. Please try again.");
     }
 }
+
+//genrated
