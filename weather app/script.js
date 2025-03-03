@@ -21,4 +21,3 @@ async function getWeather() {
     }
 }
 
-//genrated from gpt
