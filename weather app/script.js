@@ -1,4 +1,4 @@
-//1234
+/
 async function getWeather() {
     const city = document.getElementById("city").value;
     if (!city) {
