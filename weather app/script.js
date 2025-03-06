@@ -1,4 +1,4 @@
-//lll;l;l;l;;l///asmlmsmkax
+//;'.lkj//lll;l;l;l;;l///asmlmsmkax
 async function getWeather() {
     const city = document.getElementById("city").value;
     if (!city) {
