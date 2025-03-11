@@ -1,4 +1,3 @@
-//;ll;l;lk//llkkjjhh//;llkkjjuiop//;;ppooiewqZN 
 async function getWeather() {
     const city = document.getElementById("city").value;
     if (!city) {
